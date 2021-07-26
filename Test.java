@@ -19,7 +19,7 @@ class Test
 	// Driver method
 	public static void main(String[] args)
 	{
-		System.out.println("Sum of given array is " + sum());
+		System.out.println("Sum of given array  is " + sum());
 		}
 }
 
